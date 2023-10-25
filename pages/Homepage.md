@@ -1,3 +1,4 @@
 - [[Page link test]]
 - iOS auto commit test
+- 中文
 -
