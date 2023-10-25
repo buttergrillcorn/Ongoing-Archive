@@ -3,3 +3,4 @@
 - 中文
 - Desktop git auto commit test
 - [[New page test]]
+- git plugin test
