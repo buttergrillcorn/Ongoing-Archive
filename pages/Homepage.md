@@ -1,4 +1,4 @@
 - [[Page link test]]
 - iOS auto commit test
 - 中文
-- Desktop auto git commit test
+- Desktop git auto commit test
