@@ -89,7 +89,7 @@
  ;; Available options:
  ;;  - integer from 0 to 6 (Monday to Sunday)
  ;; Default value: 6 (Sunday)
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import.
  ;; This option takes precedence over the local `logseq/custom.css` file.
@@ -117,6 +117,7 @@
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
  ;; :publishing/all-pages-public? false
+  ;; :publishing/all-pages-public? false
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -132,7 +133,8 @@
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
- ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+ ;; :default-home {:page "Homepage", :sidebar ["Help"]}
+ :default-home {:page "Homepage"}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -172,7 +174,9 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {
+             :go/search		["alt+f" "ctrl+k"]
+            }
 
  ;; Configure the behavior of pressing Enter in document mode.
  ;; if set to true, pressing Enter will create a new block.
@@ -411,4 +415,6 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar}
+ :file/name-format :triple-lowbar
+ :journal/page-title-format "yyyy-MM-dd"
+ :publishing/all-pages-public? true}
