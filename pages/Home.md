@@ -13,6 +13,6 @@
 -
 - To get you started:
 	- [[Inbox]]
-	  sssssdkglksjgl
+	  For fleeting thoughts and things
 	- [[Help]]
 	-
