@@ -135,7 +135,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "Homepage", :sidebar ["Help"]}
- :default-home {:page "Homepage"}
+ :default-home {:page "Home"}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -297,7 +297,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["homepage" "inbox"]
+ :favorites ["home" "homepage" "inbox"]
 
  ;; Set flashcards interval.
  ;; Expected value:
