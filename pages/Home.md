@@ -13,9 +13,8 @@
 -
 - To get you started:
 	- [[Ideology]]
-	  The core concept
+	  The core concept of this project.
 	- [[Inbox]]
 	  For fleeting thoughts and things I haven't figure out where they belong yet.
 	- [[Help]]
 	  If you're having trouble navigating.
-	- [[]]
