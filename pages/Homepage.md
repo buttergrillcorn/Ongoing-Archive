@@ -2,4 +2,3 @@
 - iOS auto commit test
 - 中文
 - Desktop git auto commit test
-- s
