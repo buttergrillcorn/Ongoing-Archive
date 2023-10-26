@@ -13,6 +13,5 @@
 -
 - To get you started:
 	- [[Inbox]]
-	  For fleeting thoughts and things
+	  For fleeting thoughts and things I haven't figure out where they belong yet.
 	- [[Help]]
-	-
