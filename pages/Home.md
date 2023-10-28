@@ -10,8 +10,8 @@
   ```
 - In case you're new here, this is my public notes archive that is constantly being updated in real time. Hence the name.
 - To get you started:
-	- [[Ideology]]
-	  The core concept of this project.
+	- [[Ongoing Archive]]
+	  The "what" and "why"
 	- [[Inbox]]
 	  For fleeting thoughts and things in which I haven't yet figure out where they belong.
 	- [[Help]]
