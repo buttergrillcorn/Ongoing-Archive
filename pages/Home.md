@@ -13,9 +13,9 @@
 -
 - In case you're new here, this is my public notes archive that is constantly being updated in real time. Hence the name.
 -
-- To get you started 
+- To get you started:
   collapsed:: true
-  (click on the arrow on the left to expand):
+  (click on the arrow to expand / click on the dot to open if you're on mobile)
 	- [[Ongoing Archive]]
 	  id:: 653adf90-8740-445f-8067-9c55312287b2
 		- The "what" and "why" of this project.
