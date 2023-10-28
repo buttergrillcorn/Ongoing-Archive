@@ -8,7 +8,7 @@
    //__.....----~~~._\ | /_.~~~----.....__\\
   ===================\\|//===================
   ```
-- In case you're new here, this is my public notes archive t
+- In case you're new here, this is my public notes archive that is constantly being updated in real time. Hence the name.
 - To get you started:
 	- [[Ideology]]
 	  The core concept of this project.
