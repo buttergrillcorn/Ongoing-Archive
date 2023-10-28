@@ -8,7 +8,7 @@
    //__.....----~~~._\ | /_.~~~----.....__\\
   ===================\\|//===================
   ```
-- In case you're new here, this is my
+- In case you're new here, this is my public
 - To get you started:
 	- [[Ideology]]
 	  The core concept of this project.
