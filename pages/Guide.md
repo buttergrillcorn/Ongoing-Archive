@@ -1,0 +1,13 @@
+- Press '**t**' and '**r**' on your keyboard to **t**oggle the **r**ight side bar on and off.
+	- Similarly, it would be '**t**' and '**l**' for the **l**eft side bar.
+- Press '**?**' to toggle on/off the built-in Help page.
+- Press '**,**' to search for pages using keywords.
+	- Use '**.**' to search for linked pages on current page.
+-
+- This site is written and published using [[Logseq]], which is an open source note taking software that I highly recommend.
+- Everything highlighted and bracketed in double '**[[**' '**]]**' is what's called a [[bi-directional link]].
+	- They can be opened with a left click or '**Shift**' + left click to open on the right side bar.
+	- You will see a preview of the page/link if you '**hover**' your mouse cursor on them.
+- The '**Linked**' and '**Unlinked References**' shown at the bottom of the page contains all other pages that either mentioned or have links with the current page.
+	- Feel free to open them to extend your reading further.
+-
