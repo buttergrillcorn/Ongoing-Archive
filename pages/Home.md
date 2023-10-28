@@ -14,7 +14,7 @@
 		- The "what" and "why" of this project.
 	- [[Inbox]]
 		- For fleeting thoughts and things in which I haven't yet figure out where they belong.
-	- [[Help]]
+	- [[Guide]]
 		- If you're having trouble navigating, plus useful shortcuts and tips.
 	- [[About]]
 		- Who I am and everything else.
