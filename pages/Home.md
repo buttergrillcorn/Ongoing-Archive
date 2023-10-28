@@ -1,13 +1,13 @@
 - Howdy! This is the:
-  ```
-        __...--~~~~-._   _.-~~~~--...__
-       //             `V'             \\ 
-      //    Ongoing    |    Archive    \\
-     //                |                \\  
-    //__...--~~~~~-._  |  _.-~~~~~--...__\\ 
-   //__.....----~~~._\ | /_.~~~----.....__\\
-  ===================\\|//===================
-  ```
+	- ```
+	        __...--~~~~-._   _.-~~~~--...__
+	       //             `V'             \\ 
+	      //    Ongoing    |    Archive    \\
+	     //                |                \\  
+	    //__...--~~~~~-._  |  _.-~~~~~--...__\\ 
+	   //__.....----~~~._\ | /_.~~~----.....__\\
+	  ===================\\|//===================
+	  ```
 - In case you're new here, this is my public notes archive that is constantly being updated in real time. Hence the name.
 - To get you started:
 	- [[Ongoing Archive]]
