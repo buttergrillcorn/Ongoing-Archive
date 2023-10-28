@@ -1,5 +1,7 @@
 - Press '**t**' and '**r**' on your keyboard to **t**oggle the **r**ight side bar on and off.
+  id:: 653d2f75-26d1-4431-8859-e55ab06f8f0b
 	- Similarly, it would be '**t**' and '**l**' for the **l**eft side bar.
+	  id:: 653d3093-152c-42a5-8ae2-1759fc7db4d6
 - Press '**?**' to toggle on/off the built-in Help page.
 - Press '**,**' to search for pages using keywords.
 	- Use '**.**' to search for linked pages on current page.
