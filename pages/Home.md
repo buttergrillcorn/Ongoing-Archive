@@ -1,4 +1,4 @@
-- Howdy! This is the
+- Howdy! This is the:
   ```
         __...--~~~~-._   _.-~~~~--...__
        //             `V'             \\ 
@@ -8,7 +8,7 @@
    //__.....----~~~._\ | /_.~~~----.....__\\
   ===================\\|//===================
   ```
-  My name is James and this is Ongoing Archive.
+-
 - To get you started:
 	- [[Ideology]]
 	  The core concept of this project.
