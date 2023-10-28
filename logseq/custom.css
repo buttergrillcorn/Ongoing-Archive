@@ -2029,8 +2029,6 @@ a.tag[data-ref^="."] {
 .page-property-key[data-ref|="arg"]::before,
 .page-property-key[data-ref|="param"]::before       { content: "\eb8d" }
 .page-property-key[data-ref|="plugin"]::before      { content: "\ebd9" }
-@import './base.css';
-
 
 .dark-theme, html[data-theme=dark] {
     /* ------- */
