@@ -3,7 +3,20 @@
 - Press '**?**' to toggle on/off the built-in Help page.
 - Press '**,**' to search for pages using keywords.
 	- Use '**.**' to search for linked pages on current page.
-- Press
+- Press '**t**' twice to **t**oggle between light and dark **t**heme.
+- With the same logic above, here's a list of shortcuts you can do with just two key presses:
+	- '**g**' '**a**'  ==>  **g**o to **a**ll pages.
+	- '**g**' '**g**'  ==>  **g**o to **g**raph view.
+	- '**g**' '**h**'  ==>  **g**o to **h**ome page.
+	- '**g**' '**j**'  ==>  **g**o to newest *j*ournal page.
+	- '**g**' '**n**'  ==>  **g**o to **n**ext journal page.
+	- '**g**' '**p**'  ==>  **g**o to **p**revious journal page.
+	- '**t**' '**d**'  ==>  **t**oggle **d**ocument mode.
+		- Hides all the bullet points etc for a cleaner viewing experience.
+	- '**t**' '**o**'  ==>  **t**oggle **o**pen all blocks.
+		- Collapse or expand all blocks on the page.
+	- '**t**' '**w**'  ==>  **t**oggle **w**ide mode.
+	- '**c**' '**t**'  ==>  **c**lear/**c**lose all **s**ide bar pages.
 -
 - This site is written and published using [[Logseq]], which is an open source note taking software that I highly recommend.
 - Everything highlighted and bracketed in double '**[[**' '**]]**' is what's called a [[bi-directional link]].
@@ -11,4 +24,4 @@
 	- You will see a preview of the page/link if you '**hover**' your mouse cursor on them.
 - The '**Linked**' and '**Unlinked References**' shown at the bottom of the page contains all other pages that either mentioned or have links with the current page.
 	- Feel free to open them to extend your reading further.
--
+- You can also collapse/expand pages you open on the side bar by clicking on the arrow next to the page title.
