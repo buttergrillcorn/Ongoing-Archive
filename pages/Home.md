@@ -13,6 +13,6 @@
 	- [[Ideology]]
 	  The core concept of this project.
 	- [[Inbox]]
-	  For fleeting thoughts and things I haven't figure out where they belong yet.
+	  For fleeting thoughts and things in which I haven't yet figure out where they belong.
 	- [[Help]]
 	  If you're having trouble navigating, plus useful shortcuts and tips.
