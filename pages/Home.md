@@ -14,7 +14,6 @@
 - In case you're new here, this is my public notes archive that is constantly being updated in real time. Hence the name.
 -
 - To get you started:
-  collapsed:: true
   (click on the arrow to expand / click on the dot to open if you're on mobile)
 	- [[Ongoing Archive]]
 	  id:: 653adf90-8740-445f-8067-9c55312287b2
@@ -27,10 +26,12 @@
 		- If you're having trouble navigating, plus useful shortcuts and tips.
 	- [[About]]
 		- Who I am and everything else.
-	- Click '**≡**' on the top left of this page to show the left side bar and check out the:
-		- Journal pages, where things usually land first.
-		- Favourite pages, where I'll be tagging my recommended/favourite pages.
-	- Or simply use the 🔍 icon to search for relevant information.
+	- Side bar menu
+		- Click '**≡**' on the top left of this page to show the left side bar and check out the:
+			- Journal pages, where things usually land first.
+			- Favourite pages, where I'll be tagging my recommended/favourite pages.
+	- Search
+		- Or simply use the 🔍 icon to search for relevant information.
 		- Also try pressing '**,**' on your keyboard ;)
 -
 - I do not actively use any social media, the best way to contact me is using email:
