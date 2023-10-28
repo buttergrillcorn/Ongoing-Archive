@@ -8,9 +8,7 @@
   ===================\\|//===================
   ```
 - Welcome! 
-  
   My name is James and this is Ongoing Archive.
--
 - To get you started:
 	- [[Ideology]]
 	  The core concept of this project.
