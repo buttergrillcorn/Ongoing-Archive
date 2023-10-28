@@ -3,6 +3,7 @@
 - Press '**?**' to toggle on/off the built-in Help page.
 - Press '**,**' to search for pages using keywords.
 	- Use '**.**' to search for linked pages on current page.
+- Press
 -
 - This site is written and published using [[Logseq]], which is an open source note taking software that I highly recommend.
 - Everything highlighted and bracketed in double '**[[**' '**]]**' is what's called a [[bi-directional link]].
