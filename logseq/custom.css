@@ -198,7 +198,7 @@ h1.title {
 /* inline code */
 
 :not(pre)>code {
-    border-radius: 3px;
+    border-radius: 0px;
     font-size: .9em;
     font-family: MonoLisa, "Fira Code", Monaco, Menlo, Consolas, "COURIER NEW", monospace;
     padding: 3px 5px !important;
