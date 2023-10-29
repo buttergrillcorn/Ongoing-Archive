@@ -1,0 +1,37 @@
+- My name is James. 
+  (for now I won't be sharing my full name and more personal details)
+- I am approaching my mid 20s, like many others of similar age, I am unsure and worried about my current path and future plans.
+  But that's okay, we all figure this out on out own pace!
+- For the moment, I am working for my family business - a small oriental grocery store.
+	- I am mainly helping with the backend stuff for the shop.
+		- Ecommerce store management.
+		- Product invoice updates.
+		- Special parcel service management.
+			- We work with third party shipping company to send parcels to China.
+	- I have been developing a new online store website for the business from scratch for over a year now (scarcely worked on).
+		- Started with 0 knowledge about website development/publishing.
+		- If you're interested: [Great Wall Store](https://greatwallstore.com)
+		- It is currently still waiting to be finished, for example, the payment gateway and physical POS hardware hasn't been worked out yet.
+		- May not see the light of day due to our struggling business. Unfortunately.
+- On my free time, I juggle between a few hobbies and interests:
+	- Drawing and sketching on my iPad mini, mainly with Procreate, sometimes ArtStudioPro.
+	- Gaming with friends, currently playing OverWatch2.
+		- Mainly for fun and bonding with friends through it, nothing competitive.
+		- Sometimes I would hop on my Switch for less than handful of titles that I own.
+			- Zelda Breath of The Wild
+			- Splatoon 3
+			- Animal Crossing: New Horrizon
+			- Mario Kart 8 (only when there's a party of some sort)
+	- Thinking and writing about things, all should end up here.
+		- I hope to keep this a long term thing, as I often struggle to make any project last longer than a week.
+	- Watching YouTube videos.
+		- Story telling: myths, movie breakdowns, history, fantasy, etc.
+		- Tech
+			- I have a huge interest in anything to with tech. I will probably eventually have a page about this and share the techs that I find interesting.
+		- Art videos: tutorials, guides, tips & tricks, explanations, histories, etc.
+		- Music, playlists, not so much for watching but to listen to while I work on other things.
+		- What ever I research on, from products to guides and all sort of things.
+		- Various other miscellaneous channels with different contents.
+		- Here's a list of my favourite and recommended [[YouTube Channels]].
+		  id:: 653e5a7d-0b97-4fa8-884f-5dafb3987273
+	-
