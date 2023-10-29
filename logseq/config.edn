@@ -44,6 +44,7 @@
  ;; Display brackets [[]] around page references.
  ;; Default value: true
  ;; :ui/show-brackets? true
+ :ui/show-brackets? false
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
@@ -72,7 +73,7 @@
 
  ;; Enable whiteboards.
  ;; Default value: true
- ;; :feature/enable-whiteboards? true
+ :feature/enable-whiteboards? false
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
@@ -261,7 +262,7 @@
  ;; - block title
  ;;   block content
  ;; Default value: false
- :outliner/block-title-collapse-enabled? false
+ :outliner/block-title-collapse-enabled? true
 
  ;; Macros replace texts and will make you more productive.
  ;; Example usage:
@@ -297,7 +298,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["home" "homepage" "inbox"]
+ :favorites ["Home" "Inbox" "TODO" "DOING" "Guide" "About"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -313,6 +314,7 @@
  ;; Hide specific block properties.
  ;; Example usage:
  ;; :block-hidden-properties #{:public :icon}
+ :block-hidden-properties #{:public :collapsed :icon}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -417,5 +419,4 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :ui/show-brackets? true
 }
