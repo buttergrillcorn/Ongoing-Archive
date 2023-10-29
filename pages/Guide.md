@@ -27,7 +27,7 @@
 	- '==**t**==' '==**w**=='  ==>  **t**oggle **w**ide mode.
 	- '==**c**==' '==**t**=='  ==>  **c**lear/**c**lose all **s**ide bar pages.
 -
-- Everything highlighted and bracketed in double '**[[**' '**]]**' is what's called a [[bi-directional link]].
+- Everything highlighted in blue is what's called a [[bi-directional link]].
 	- They can be opened on the **right side bar** with a left click or '**Shift**' + left click.
 	- You will see a preview of the page/link if you '**hover**' your mouse cursor on them.
 -
