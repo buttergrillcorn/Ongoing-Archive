@@ -1,4 +1,4 @@
-- H o w d y !
+- ==H o w d y !==
 -
 - This is the:
   ```
@@ -17,7 +17,7 @@
 -
 - To get you started:
   collapsed:: true
-  (click on the mini arrow to expand / click on the dot to open)
+  (click on the mini arrow to expand / click on the dot to open in new page)
 	- [[Ongoing Archive]]
 	  id:: 653adf90-8740-445f-8067-9c55312287b2
 		- The "what" and "why" of this project.
