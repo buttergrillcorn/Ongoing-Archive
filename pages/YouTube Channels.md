@@ -1,0 +1,46 @@
+- I spend a significant amount of time on YouTube, it's a love-hate relationship.
+	- I love it for being the biggest video platform where you can find almost everything in video form. You can learn so much from it, it's like an international library but for videos.
+	- I hate it for the potential to devour huge chunks of time if you're not mindful about what you're watching. The algorithm and [[YouTube Shorts]] can bring a lot of harm.
+-
+- Here's a list of channels that I personally watch and recommend:
+	- MKBHD (Marques Brownlee) #tech
+		- [Channel link](https://www.youtube.com/@mkbhd)
+		- One of the largest tech YouTube content creator on the platform, with every single video having hundreds of thousands of views. For a good reason.
+		- Their content is often where I check impressions and reviews for new tech related products. Mostly smartphones but also things like headphones and new gadgets (e.g. Apple Vision Pro)
+		- From years of consuming their content, I can say that they are honest about their opinions and do their research properly.
+	- Dave2D #tech
+		- [Channel link](https://www.youtube.com/@Dave2D)
+		- The tech channel I go for when I want more condensed and straight to the point reviews/thoughts. Dave is great at making the videos packed with most if not all the information you would like to find for a product/topic.
+		- Great, smooth graphics and video edits. Satisfying and cool haha.
+	- SamDoesArts #art
+		- [Channel link](https://www.youtube.com/@samdoesarts)
+		- The digital artist who has blown up in the art community in the recent years. Well deserved for what he is producing! I have been following him a little bit before the explosion of followers and find the content to always be useful or interesting.
+		- Funny yet very useful information and guides to help you do art. Whether you're looking to build an art career or just doing it as a hobby.
+		- It is less technique, teaching focused compared to some other channels that I know but more entertaining. It is not a negative thing! Nothing wrong with learning a thing or two while watching it during your lunch/dinner.
+	-
+	- List of other channels:
+		- **To be updated**
+	- Steven Zapata Art #art
+	- The Linux Experiment #linux
+	- Sinix Design #art
+	- Accented Cinema #movie
+	- Brad Colbow #art #tech
+	- Chroma Moma #art
+	- BoroCG #art
+	- Dcard Video #entertainment
+	- e r g o j o s h #art
+	- IC实验室 #entertainment
+	- MrMobile [Michael Fisher] #tech
+	- Mrwhosetheboss #tech
+	- NIPS #art
+	- Teoh on Tech #art #tech
+	- Titus Tech Talk #linux
+	- 周扒片 #movie
+	- 天才女友GG #fashion
+	- 忙波画画 #art
+	- 抖抖村 #art
+	- 有点艺思哦 #art
+	- 林亦LYi #tech
+	- 老高与小茉 #entertainment
+	- 锡兰Ceylan #entertainment
+	- 纳豆奶奶 #entertainment
