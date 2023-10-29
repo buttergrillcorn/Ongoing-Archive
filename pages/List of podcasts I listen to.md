@@ -12,4 +12,39 @@ tags:: podcast
 	- [Website link](https://podcasts.voxmedia.com/show/waveform-the-mkbhd-podcast)
 	- Hosted by the crew at MKBHD, which is one of the biggest tech [[YouTube Channels]].
 	- Similar to ((653e695e-8644-4341-86ae-7c3d1cf0becd)), they often give updates on new tech as well as more in depth content/interviews for specific topics.
+- FView Friday 爱否科技 #tech
+	- [YouTube channel link](https://www.youtube.com/@FView-CN/videos)
+	- [Bilibili link 哔哩哔哩链接](https://space.bilibili.com/7458285/)
+	- A Chinese tech podcast which often holds a different point of view from the western tech podcasts. It is very useful in providing me a different way to think about what may be the same tech topic.
+	- Their podcasts are usually only an edit of their recorded livestreams on other platforms. However, they do usually include in-depth thoughts and foresights for discussions.
+	- Sometimes even more detailed and insightful than that of the western channels. This can be due to competition and access to  more detailed information for being China based.
+		- Many newer or experimental tech products do sprout in China as it holds one of the largest production chains in the world. Thing's can be made easier, faster and cheaper.
+- 3 Point Perspective #art
+	- [Podcast link](https://www.svslearn.com/3pointperspective)
+	- [SVS (School of Visual Storytelling), their main website/sponsor](https://www.svslearn.com/)
+	- The main and only art podcast I am actively listening to currently.
+	- The podcast if hosted by three artists who's had decades of experience in the industry.
+		- [Will Terry](https://www.willterry.com/)
+		- [Lee White](https://www.leewhiteillustration.com/)
+		- [Jake Parker](https://www.mrjakeparker.com/)
+	- The podcast mainly costs of the three hosts talking and answering questions about art, mostly to do with illustration. These can range from career questions, portfolio advises to financial challenges in doing art as your main career.
+	- They also interview different artists or collab with them to help answer viewers questions.
+	- It's very helpful to hear from experienced artists who has and is still working in the field.
+- 故事FM #storytelling
+	- This is Chinese podcast show where they interview and use interviewee's own voice to describe their stories.
+		- As they describe themselves:
+			- *故事FM* 是一档亲历者自述的声音节目，我们「用你的声音，讲述你的故事」。
+	- The stories can be happy, warm to exciting, intense and often make me secretly shedding tears while traveling in public transport.
+		- I wish there would be something similar but in English, please do let me know if you are aware of anything else like this.
+	- Most if not all of the stories are fascinating and engaging. As they are told by the interviewee, I find it to be more realistic and authentic. Often times it would feel like they're are telling their own stories to me, I find it easier to be empathetic this way.
+	- This podcast has been quite an eye opening experience as I am able to experience parts of other people's life I would not have be able to otherwise.
 -
+- There are also various other podcasts that I listen to less frequently and found to be not as useful/enjoyable. (They're also good in some ways but just not so much that I would recommend like the ones above)
+	- Linux Unplugged
+	- 霸轩广播电台
+	- Art Cafe Podcast
+	- 电影侦探
+-
+- Have anything that you'd like to recommend?
+	- [Send me an email](mailto:contact@ongoingarchive.com)
+	- Please give me a brief description and let me know why, thank you!
