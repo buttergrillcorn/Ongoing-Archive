@@ -37,5 +37,7 @@
 		- Or simply use the 🔍 icon to search for relevant information.
 		- Also try pressing '**,**' on your keyboard ;)
 -
+- [:a {:href "#/all-journals"} "Today’s journal"]
+-
 - I do not actively use any social media, the best way to contact me is using email:
 	- [contact@ongoingarchive.com](mailto:contact@ongoingarchive.com)
