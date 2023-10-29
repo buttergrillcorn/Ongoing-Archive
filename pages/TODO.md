@@ -1,8 +1,10 @@
 - TODO pages to be updated on Ongoing Archive:
-	- TODO [[List of podcasts I listen to]]
-	- TODO [[My experience with Linux so far]]
-	- TODO [[My current Linux setup]]
-	- TODO [[Why I use Linux]]
-	- TODO [[YouTube Channels]]
-	- TODO [[My struggle in reading]]
--
+	- TODO [#B] [[List of podcasts I listen to]]
+	- TODO [#B] [[My experience with Linux so far]]
+	- TODO [#B] [[My current Linux setup]]
+	- TODO [#B] [[Why I use Linux]]
+	- TODO [#B] [[YouTube Channels]]
+	- TODO [#B] [[My struggle in reading]]
+	- TODO [#C] [[How I made this site with Logseq and Github pages]]
+	- TODO [#A] [[Ongoing Archive]]
+	-
