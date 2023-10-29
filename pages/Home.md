@@ -15,9 +15,9 @@
   
   Hence the name.
 -
-- collapsed:: true
-  To get you started:
-  (click on the arrow to expand / click on the dot to open if you're on mobile)
+- To get you started:
+  collapsed:: true
+  (click on the mini arrow to expand / click on the dot to open)
 	- [[Ongoing Archive]]
 	  id:: 653adf90-8740-445f-8067-9c55312287b2
 		- The "what" and "why" of this project.
