@@ -1,7 +1,9 @@
 - My name is James. 
   (for now I won't be sharing my full name and more personal details)
+-
 - I am approaching my mid 20s, like many others of similar age, I am unsure and worried about my current path and future plans.
   But that's okay, we all figure this out on out own pace!
+-
 - For the moment, I am working for my family business - a small oriental grocery store.
 	- I am mainly helping with the backend stuff for the shop.
 		- Ecommerce store management.
@@ -13,6 +15,7 @@
 		- If you're interested: [Great Wall Store](https://greatwallstore.com)
 		- It is currently still waiting to be finished, for example, the payment gateway and physical POS hardware hasn't been worked out yet.
 		- May not see the light of day due to our struggling business. Unfortunately.
+-
 - On my free time, I juggle between a few hobbies and interests:
 	- Drawing and sketching on my iPad mini, mainly with Procreate, sometimes ArtStudioPro.
 	- Gaming with friends, currently playing OverWatch2.
@@ -34,4 +37,29 @@
 		- Various other miscellaneous channels with different contents.
 		- Here's a list of my favourite and recommended [[YouTube Channels]].
 		  id:: 653e5a7d-0b97-4fa8-884f-5dafb3987273
-	-
+	- Listening to podcasts, mainly when I'm travelling.
+		- Mostly tech and news, but also art.
+		- [[List of podcasts I listen to]]
+		- I will be jotting down notes and thoughts about them using tag #podcast
+	- Linux
+		- [[My experience with Linux so far]]
+		- [[My current Linux setup]]
+		- [[Why I use Linux]]
+	- Interest and hobbies that I would like to explore:
+		- Reading
+			- [[My struggle in reading]]
+			- For better writing and wider knowledge base to see things in more ways.
+			- Vocabulary to better express myself and what I intend to say.
+		- Working out
+			- To stay healthy and be in a better physique.
+		- Coding
+			- I first developed an interest in this when I started to learn about Linux.
+			- I have started to dip my toes in coding and computer science by watching CS50 lecture, not yet finished.
+		- Movies
+			- I've always enjoyed watching movies, the awe I experience after a good movie is very impactful and intriguing to me.
+			- I should and will start to record my thoughts and opinions for movies that I watch from now on.
+				- Should be tagged with #movie
+-
+- **(Very Optional)** If you find anything helpful here and wants to buy me a ☕ :)
+	- [My Ko-fi page](https://ko-fi.com/buttergrillcorn)
+	- Thank you, I appreciate it!

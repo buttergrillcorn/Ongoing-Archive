@@ -1,0 +1,8 @@
+- TODO pages to be updated on Ongoing Archive:
+	- TODO [[List of podcasts I listen to]]
+	- TODO [[My experience with Linux so far]]
+	- TODO [[My current Linux setup]]
+	- TODO [[Why I use Linux]]
+	- TODO [[YouTube Channels]]
+	- TODO [[My struggle in reading]]
+-
