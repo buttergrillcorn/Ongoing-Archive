@@ -32,3 +32,4 @@ tag:: work
 - TODO 东北农嫂 甜玉米穗 220g
 - TODO 东北农嫂 黑糯玉米 200g
 - TODO 乡亲 牛舌饼 原味 170g
+- TODO 华元 真鱿味 87g
