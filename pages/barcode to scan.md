@@ -29,3 +29,4 @@ tag:: work
 - TODO Gemez Enaak 小鸡面 点心面 烧烤鸡肉味 30g
 - TODO Gemez Enaak 小鸡面 点心面 辣味 28g
 - TODO 贤哥 盐焗猪蹄 140g
+- TODO 东北农嫂 甜玉米穗 220g
