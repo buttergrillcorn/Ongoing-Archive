@@ -27,3 +27,4 @@ tag:: work
 - TODO 康师傅 日式豚骨 5连包
 - TODO 康师傅 精炖番茄牛腩 5连包
 - TODO Gemez Enaak 小鸡面 点心面 烧烤鸡肉味 30g
+- TODO Gemez Enaak 小鸡面 点心面 辣味 28g
