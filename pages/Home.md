@@ -11,9 +11,9 @@
   ================\\|//================
   ```
 -
-- In case you're new here, this is my public notes “archive” which is constantly being updated in real time. 
-  
-  Hence the name.
+	- In case you're new here, this is my public notes “archive” which is constantly being updated in real time. 
+	  
+	  Hence the name.
 -
 - To get you started:
   collapsed:: true
